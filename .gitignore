@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# Jika Anda juga menggunakan npm, Anda mungkin ingin menambahkan:
+npm-debug.log
+
+# Yarn
+yarn-error.log
